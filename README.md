@@ -3,9 +3,9 @@
   <h1 align="center"><b>Hello there, I'm Sachin 👋</b></h1>
 </p>
 
-<p align="center">
+<!-- <p align="center">
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/i-sachin464" />
-</p>
+</p> -->
 
 <p align="center">
 <br>

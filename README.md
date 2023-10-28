@@ -19,8 +19,6 @@
 
 ### I am an Android Developer at WoWExp Technologies
 - 🔭 I’m currently working on News App :grin:
-- 🌱 I’m currently learning Kotlin and Android best practices.
-- 🥅 2021 Goals: Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][Linkedin]
 - ⚡ Fun fact: The word ‘Android’ means a human with a male robot appearance.
@@ -47,12 +45,12 @@
 <br>
 <br>
 
-[website]: https://isachin.in
+[website]: https://sachin.work
 <!-- [twitter]: https://twitter.com/ -->
 <!--[youtube]: https://www.youtube.com/channel/-->
 <!-- [instagram]: https://instagram.com/ -->
-[linkedin]: https://www.linkedin.com/in/i-sachin464/
+[linkedin]: https://www.linkedin.com/in/isachin275/
 
 
 #### Thank You-🙏🏼
-⭐️ From [Sachin Pradhan](https://isachin.in)
+⭐️ From [Sachin Pradhan](https://sachin.work)
